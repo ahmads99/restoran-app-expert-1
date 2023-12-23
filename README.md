@@ -20,8 +20,8 @@
 
 Get the repo
 ```cmd
-git clone https://github.com/ibnucholdun/Menjadi-Front-end-Web-Developer-Expert.git
-cd Menjadi-Front-end-Web-Developer-Expert
+git clone https://github.com/ahmads99/restoran-app-expert-1.git
+cd restoran-app-expert-1
 yarn install or npm install
 ```
 Script
